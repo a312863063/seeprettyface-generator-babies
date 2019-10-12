@@ -18,7 +18,7 @@
 查看更多的生成样本可以前往[这里](https://pan.baidu.com/s/1G_hn-1jdOC6s_gMqsTmthg)（提取码：q9f6），是一个含有1万张生成样本的可爱笑容萌娃脸数据集。<br /><br /><br />
 
 # 萌娃脸属性编辑
-&emsp;&emsp;人脸属性编辑目前支持在笑容、年龄、角度、性别和光照5个维度上对生成人物作出调整。
+&emsp;&emsp;人脸属性编辑支持在年龄、笑容、角度、性别和光照等23个维度上对生成人物作出调整（详细了解请前往[人脸属性编辑器](https://github.com/a312863063/seeprettyface-face_editor)处）。这儿只展示5种基本调整示例。
 ## 笑容调整
 ![Image text](https://github.com/a312863063/seeprettyface-generator-babies/blob/master/examples/smile.jpg)
 <br/><br/>
