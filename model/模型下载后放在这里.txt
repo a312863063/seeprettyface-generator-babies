@@ -1,8 +1,0 @@
-模型下载地址：
-
-包含萌娃脸生成器和微笑脸分类器2个模型：
-
-链接：https://pan.baidu.com/s/1W7JmKs52krrKZRevlUo9XQ 
-提取码：ep2t 
-
-
