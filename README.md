@@ -1,7 +1,5 @@
 # 萌娃人脸生成器
 <br />
-&emsp;&emsp;<b>注明：这个项目之前收费过一段时间，在此衷心地感谢那些购买者给我提供的支持。目前已全部免费开源，希望能帮助到更多的人。如果真的对您有帮助的话，可以给予一些小小的赞助蟹蟹~</b><br />
---------------------------------------------------------------------------------------------------------------------<br /><br />
 &emsp;&emsp;这是一个用StyleGAN训练出的萌娃人脸生成器，生成效果如下所示。<br /><br /><br />
 
 # 生成示例
@@ -47,19 +45,11 @@
 
 ## 运行步骤
 &emsp;&emsp;1.在model文件夹中按照txt地址下载模型，放在该位置<br/>
+&emsp;&emsp;&emsp;&emsp;注明：由于此模型训练成本高，需付费购买，获取方式参见model文件夹中txt文件。<br/>
 &emsp;&emsp;2.运行generate_kid.py或者generate_smile_kid.py<br/>
 <br /><br /><br />
 ## 获取训练集：[点此下载](http://www.seeprettyface.com/mydataset_page2.html)
 ![Image text](https://github.com/a312863063/seeprettyface/blob/master/EP001-01.png)<br/><br/><br/>
-
-## 小小的赞助~
-<p align="center">
-	<img src="https://github.com/a312863063/seeprettyface/blob/master/sponsor.jpg" alt="Sample"  width="324" height="504">
-	<p align="center">
-		<em>模型训练不易，若对您有帮助可给予小小的支持~</em>
-	</p>
-</p>
-<br/><br/><br/>
 
 
 
